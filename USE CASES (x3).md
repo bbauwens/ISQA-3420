@@ -21,7 +21,7 @@ There will be 3 USE CASES files embedded into this file
 ##Failed End Conditions: Manager receives inaccurate or invalid license and vulnerability information for the requested package of license scanning and vulnerabilities.
 
 ##Trigger: Manager uploads or identifies project information to which license and vulnerability information is provided
-#---------------------------------------------------------------------
+#---------------------------------------------------------------
 
 
 
