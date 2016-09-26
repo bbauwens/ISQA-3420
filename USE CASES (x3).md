@@ -6,5 +6,11 @@ There will be 3 USE CASES files embedded into this file
 
 ###Goal in Context: The Manager is able to determine Software and Package Info for License Scanning and Vulnerabilities.
 
+###Stakeholders:
+
+####-Manager: To receive clear and relevant project information
+####-Developer: To provide the relevant file/package level information
+####-Project Owner: : To clearly understand manager decisions to green/red light a project
+
 
 
