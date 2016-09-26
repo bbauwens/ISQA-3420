@@ -12,5 +12,8 @@ There will be 3 USE CASES files embedded into this file
 ####-Developer: To provide the relevant file/package level information
 ####-Project Owner: : To clearly understand manager decisions to green/red light a project
 
+###Preconditions:
+####-Relevant file/package information is in the Package and License Info database
+
 
 
