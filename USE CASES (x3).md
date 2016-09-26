@@ -14,6 +14,8 @@ There will be 3 USE CASES files embedded into this file
 
 ###Preconditions:
 ####-Relevant file/package information is in the Package and License Info database
+####-Proper software package and vulnerabilities information has been provided
+
 
 
 
