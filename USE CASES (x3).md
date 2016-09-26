@@ -1,8 +1,10 @@
 There will be 3 USE CASES files embedded into this file
 
-##Title: Manage Software and Package Info for License Scanning and Vulnerabilities
+###Title: Manage Software and Package Info for License Scanning and Vulnerabilities
 
-##Primary Actor: Developer
+###Primary Actor: Manager
+
+###Goal in Context: The Manager is able to determine Software and Package Info for License Scanning and Vulnerabilities.
 
 
 
