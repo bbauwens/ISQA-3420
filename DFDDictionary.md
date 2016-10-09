@@ -1,14 +1,11 @@
 #Entities
 ----------
-1. Developer
-####- The person that can can submit open source packages and receive responses with the open source components, licenses, and vulnerabilities. 
+1. Developer: ####The person that can can submit open source packages and receive responses with the open source components, licenses, and vulnerabilities. 
 
-2. Manager
-####- The person thats in charge of the dev and can request for software project license and vulnerability information and receive a response along with project policy and lastly can submit or modify policy documents.
+2. Manager: ####The person thats in charge of the dev and can request for software project license and vulnerability information and receive a response along with project policy and lastly can submit or modify policy documents.
 
 #Processes
-1. Scanner
-####- Scans Software Packages for licenses that are similar
+1. Scanner####- Scans Software Packages for licenses that are similar
 2. Management Interface
 3. Manage Software and Package Info for License Scanning and Vulnerabilities
 4. Software Package License and Vulnerability Policy Datastore
