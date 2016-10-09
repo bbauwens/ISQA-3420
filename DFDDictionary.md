@@ -1,7 +1,11 @@
 #Entities
 ----------
 1. Developer
+####- The person that can can submit open source packages and receive responses with the open
+source components, licenses, and vulnerabilities. 
+
 2. Manager
+####- The person thats in charge of the dev and can request for software project license and vulnerability information and receive a response along with project policy and lastly can submit or modify policy documents.
 
 #Processes
 --------
