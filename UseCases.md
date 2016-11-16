@@ -66,3 +66,7 @@ There will be 3 USE CASES files embedded into this file
 ##Failed End Conditions: Manager provides inaccurate Software Package Policy update to the OSS Package Policy DB that is retrieved by the developer.
 
 ##Trigger: Manager provides accurate Software Package Policy update to OSS Package Policy DB and the Developer receieves accurate info.
+#---------------------------------------------------------------
+## Policies
+-InternalOSSUse.txt
+-OSSComProds.txt
